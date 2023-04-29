@@ -17,7 +17,7 @@ class Camera:
     def __init__(self, source):
         # Video capture
         self.video = cv2.VideoCapture(source)
-        self.soundFile = os.getcwd() + os.sep + 'pollenfound.mp3 '
+        self.soundFile = os.getcwd() + os.sep + 'pollenfound.mp3'
         self.soundCondition = False
         self.uploadCondition = False
         pg.mixer.init()
