@@ -1,6 +1,6 @@
 {
   "__comment1": "Obtain these values via Roboflow",
-  "ROBOFLOW_API_KEY": "n6v18JXhied6cfiOF5fr",
+  "ROBOFLOW_API_KEY": "xxxxxxxxxxxxxx",
   "ROBOFLOW_MODEL": "bee-gen/3",
   "ROBOFLOW_SIZE": 416,
   "DATASET_NAME": "your-dataset",
